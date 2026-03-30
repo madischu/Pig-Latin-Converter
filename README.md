@@ -47,3 +47,4 @@ Display original word
 Display Pig Latin word
 
 End
+<img width="393" height="90" alt="image" src="https://github.com/user-attachments/assets/13051b79-c1bd-4f21-8b61-a84f359eda7a" />
