@@ -26,3 +26,24 @@ g++ main.cpp LinkedList.cpp PigLatin.cpp -o piglatin
 Run:
 Bash
 ./piglatin
+
+# Detailed Pseudocode
+Prompt user to enter a word
+Read the word
+
+Create a linked list
+For each character in the word:
+    Insert character at the end of the linked list
+
+If first character is a vowel:
+    Append 'w', 'a', 'y' to the linked list
+Else:
+    While first character is not a vowel:
+        Rotate the linked list
+    Append 'a', 'y' to the linked list
+
+Convert linked list back to a string
+Display original word
+Display Pig Latin word
+
+End
