@@ -27,6 +27,9 @@ Run:
 Bash
 ./piglatin
 
+Command Prompt:
+piglatin.exe
+
 # Detailed Pseudocode
 Prompt user to enter a word
 Read the word
@@ -47,4 +50,9 @@ Display original word
 Display Pig Latin word
 
 End
+
+
 <img width="393" height="90" alt="image" src="https://github.com/user-attachments/assets/13051b79-c1bd-4f21-8b61-a84f359eda7a" />
+<img width="378" height="86" alt="image" src="https://github.com/user-attachments/assets/88dc7fa7-a192-4e64-865c-c8a4d6fb5007" />
+<img width="330" height="89" alt="image" src="https://github.com/user-attachments/assets/ca0e051e-8e4a-415f-a164-092b2b6fcaaa" />
+
