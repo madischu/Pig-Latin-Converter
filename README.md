@@ -30,7 +30,8 @@ Bash
 Command Prompt:
 piglatin.exe
 
-## Detailed Pseudocode
+## Design Documentation
+**Detailed Pseudocode**
 Prompt user to enter a word
 Read the word
 
