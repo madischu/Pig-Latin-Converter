@@ -1,6 +1,6 @@
 # Pig-Latin-Converter
 
-# Program Description
+## Program Description
 This C++ program prompts the user to enter a word and converts the word into Pig Latin. 
 
 The conversion rules are as follows:
@@ -10,15 +10,15 @@ The conversion rules are as follows:
 
 This program meets the project requirement by storing the characters of the string in a linked list and using a rotate function that removes the first node and places it at the end of the list. 
 
-# Inputs
+## Inputs
 The user inputs a single word. 
 
-# Outputs
+## Outputs
 The program outputs:
 - The original word
 - The Pig Latin version of the word
 
-# How to Compile and Run
+## How to Compile and Run
 Compile: 
 Bash
 g++ main.cpp LinkedList.cpp PigLatin.cpp -o piglatin
@@ -30,7 +30,7 @@ Bash
 Command Prompt:
 piglatin.exe
 
-# Detailed Pseudocode
+## Detailed Pseudocode
 Prompt user to enter a word
 Read the word
 
