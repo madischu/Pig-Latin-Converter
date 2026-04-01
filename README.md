@@ -32,6 +32,7 @@ piglatin.exe
 
 ## Design Documentation
 **Detailed Pseudocode**
+
 Prompt user to enter a word
 Read the word
 
